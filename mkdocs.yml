@@ -1,0 +1,13 @@
+site_name: MyFDWeb API Docs
+theme:
+  name: material
+  language: en
+  logo: https://myfdweb.de/logo.png
+  favicon: https://myfdweb.de/favicon.ico
+  palette:
+    primary: light blue
+  features:
+    - navigaton.instant
+  plugins:
+    - search:
+        lang: en
